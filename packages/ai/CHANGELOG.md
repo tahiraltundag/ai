@@ -1,5 +1,11 @@
 # ai
 
+## 7.0.102
+
+### Patch Changes
+
+- 8b92ba9: fix(ai): settle automatically denied tool calls in UI streams
+
 ## 7.0.101
 
 ### Patch Changes
